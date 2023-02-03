@@ -1,0 +1,36 @@
+---
+Seasoning:
+  - name: 'Black Mix'
+    ingredients:
+      - 'paprika'
+      - 'cayenne pepper'
+      - 'salt'
+      - 'pepper'
+      - 'onion powder'
+    type: 'spice mix'
+    
+  - name: 'Asian Stir Fry'
+    ingredients:
+      - 'hoisin sauce'
+      - 'soy sauce'
+      - 'garlic'
+      - 'ginger'
+    type: 'frying sauce'
+
+Protein_Source:
+  - sources:
+    - 'chicken breasts'
+    - 'salmon'
+
+Delivery_Method:
+  - methods:
+    - 'burrito'
+    - 'bread'
+    - 'salad'
+    - 'rice'
+    - 'pasta'
+    - 'lentils'
+
+Condiments:
+  - name: 'pickled onions'
+  - name: 'yoghurt sauce'
